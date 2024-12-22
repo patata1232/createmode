@@ -1,0 +1,139 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-30 12:56:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-30 12:56:17 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-11-30 12:56:17 +0000"
+    },
+    "done": true
+  },
+  "create_ltab_f:let_the_adventure_begin": {
+    "criteria": {
+      "let_the_adventure_begin": "2024-11-30 12:56:17 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2024-11-30 12:56:22 +0000",
+      "has_black_balloon": "2024-11-30 12:56:22 +0000",
+      "has_lime_balloon": "2024-11-30 12:56:22 +0000",
+      "has_cyan_balloon": "2024-11-30 12:56:21 +0000",
+      "has_light_blue_balloon": "2024-11-30 12:56:22 +0000",
+      "has_gray_balloon": "2024-11-30 12:56:22 +0000",
+      "has_pink_balloon": "2024-11-30 12:56:22 +0000",
+      "has_light_gray_balloon": "2024-11-30 12:56:22 +0000",
+      "has_white_balloon": "2024-11-30 12:56:21 +0000",
+      "has_blue_balloon": "2024-11-30 12:56:21 +0000",
+      "has_yellow_balloon": "2024-11-30 12:56:22 +0000",
+      "has_purple_balloon": "2024-11-30 12:56:22 +0000",
+      "has_orange_balloon": "2024-11-30 12:56:21 +0000",
+      "has_brown_balloon": "2024-11-30 12:56:21 +0000",
+      "has_green_balloon": "2024-11-30 12:56:22 +0000",
+      "has_magenta_balloon": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-11-30 12:56:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2024-11-30 12:56:21 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-11-30 12:56:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2024-11-30 12:56:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-30 12:56:21 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "uncrafter:recipes/uncrafter": {
+    "criteria": {
+      "has_block": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-11-30 12:56:22 +0000",
+      "inv_changed-diamond": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "northstar:root": {
+    "criteria": {
+      "0": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "uncrafter:recipes/advanced_uncrafter": {
+    "criteria": {
+      "has_block": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-11-30 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-11-30 12:56:23 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
